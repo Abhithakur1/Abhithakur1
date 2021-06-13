@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhithakur1
+- 👋 Hi, I’m Abhi thakur
 - 👀 I’m interested in mobile application coding
 - 🌱 I have develop lots of hybrid application's 
 - 💞️ I’m looking to collaborate on ...
