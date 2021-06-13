@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhithakur1
 - 👀 I’m interested in mobile application coding
-- 🌱 I have develop lots of application's 
+- 🌱 I have develop lots of hybrid application's 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫  Reach me ...ON Whtsup +917888451015
 
 <!---
 Abhithakur1/Abhithakur1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
